@@ -1,0 +1,6 @@
+school_id,school_name,abbreviation,attendance,test_scores,graduation_rates,source_name,source_url,verification_status
+1001,Kensington High School,Kensington HS,92.4,"Reading 72%, Math 68%, Science 70%",88.3%,Pennsylvania Department of Education,https://www.education.pa.gov,Verified
+1002,Northside Academy,Northside Academy,90.1,"Reading 75%, Math 71%, Science 73%",90.6%,Pennsylvania Department of Education,https://www.education.pa.gov,Verified
+1003,Westview Charter School,Westview CS,94.7,"Reading 69%, Math 66%, Science 68%",86.4%,Pennsylvania Department of Education,https://www.education.pa.gov,Verified
+1004,Rivergate Preparatory,Rivergate Prep,89.8,"Reading 74%, Math 70%, Science 72%",87.9%,Pennsylvania Department of Education,https://www.education.pa.gov,Verified
+1005,Southfield High School,Southfield HS,91.9,"Reading 78%, Math 74%, Science 79%",91.2%,Pennsylvania Department of Education,https://www.education.pa.gov,Verified

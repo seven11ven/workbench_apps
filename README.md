@@ -1,1 +1,1 @@
-# elevate-215_2026
+# A series of apps dedicated to school data handling
