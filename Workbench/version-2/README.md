@@ -1,5 +1,3 @@
-# Elevate-215 School Data App
-
 ## Run the app
 
 ```bash
