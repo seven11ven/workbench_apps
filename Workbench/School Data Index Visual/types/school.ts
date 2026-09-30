@@ -1,0 +1,20 @@
+export type SchoolRecord = {
+  schoolNumber: string;
+  districtName: string;
+  schoolName: string;
+  abbreviation?: string;
+  schoolType: string;
+  gradeSpan: string;
+  percentBlackHispanic: number | null;
+  percentLowIncome: number | null;
+  avgResidual: number | null;
+  readingPctProficient: number | null;
+  mathPctProficient: number | null;
+  algebraPctProficient: number | null;
+  biologyPctProficient: number | null;
+  literaturePctProficient: number | null;
+  enrollment: number | null;
+  authorizedEnrollmentCap: number | null;
+  fillTier: string;
+  eapiTier: string;
+};
